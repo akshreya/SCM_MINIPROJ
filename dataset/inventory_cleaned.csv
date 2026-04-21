@@ -1,0 +1,21 @@
+product_id,product_name,stock_level,reorder_level
+P01,Product P01,15,14
+P02,Product P02,56,7
+P03,Product P03,93,16
+P04,Product P04,15,20
+P05,Product P05,55,16
+P06,Product P06,99,20
+P07,Product P07,90,16
+P08,Product P08,96,18
+P09,Product P09,97,10
+P10,Product P10,42,5
+P11,Product P11,53,12
+P12,Product P12,31,14
+P13,Product P13,83,12
+P14,Product P14,43,10
+P15,Product P15,46,8
+P16,Product P16,22,11
+P17,Product P17,28,8
+P18,Product P18,36,8
+P19,Product P19,33,13
+P20,Product P20,30,7
